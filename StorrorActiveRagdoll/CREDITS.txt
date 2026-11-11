@@ -1,0 +1,12 @@
+STORROR Active Ragdoll - credits
+
+X-ray skeleton (Scripts/xray_bones.lua)
+  BodyParts3D, (c) The Database Center for Life Science licensed under CC Attribution 4.0 International.
+  https://dbarchive.biosciencedbc.jp/en/bodyparts3d/
+  License: https://creativecommons.org/licenses/by/4.0/
+
+  Changes made: 202 bone meshes taken from the BodyParts3D 4.0 "part-of" OBJ set (partof_BP3D_4.0_obj_99.zip),
+  reduced to about 39,000 triangles, their faces turned outward, and each bone fitted onto STORROR's character
+  skeleton (scaled, turned and moved to its joints) to be drawn as an in-game x-ray. The original OBJ files
+  carry an older license note (CC Attribution-Share Alike 2.1 Japan); the database's current license, last
+  updated 2025-02-25, is CC Attribution 4.0 International, which is the one followed here.
